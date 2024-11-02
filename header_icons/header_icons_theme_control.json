@@ -1,0 +1,269 @@
+{
+	"name": "header_icons_theme",
+	"dataColors": [
+		"#f2b50f",
+		"#fff600"
+	],
+	"visualStyles": {
+		"shape": {
+			"*": {
+				"visualHeader": [
+					{
+						"background": {
+							"solid": {
+								"color": "#fffbca"
+							}
+						},
+						"border": {
+							"solid": {
+								"color": "#ffa200"
+							}
+						},
+						"showCommentButton": false,
+						"showCopyVisualImageButton": false,
+						"showDrillToggleButton": false,
+						"showDrillRoleSelector": false,
+						"showDrillUpButton": false,
+						"showDrillDownExpandButton": false,
+						"showFilterRestatementButton": false,
+						"showFocusModeButton": false,
+						"showFollowVisualButton": false,
+						"foreground": {
+							"solid": {
+								"color": {
+									"expr": {
+										"ThemeDataColor": {
+											"ColorId": 2,
+											"Percent": -0.5
+										}
+									}
+								}
+							}
+						},
+						"showOptionsMenu": false,
+						"showPersonalizeVisualButton": false,
+						"showPinButton": false,
+						"showSeeDataLayoutToggleButton": false,
+						"showSetAlertButton": false,
+						"show": false,
+						"showDrillDownLevelButton": false,
+						"showSmartNarrativeButton": false,
+						"transparency": 20,
+						"showVisualErrorButton": false,
+						"showTooltipButton": false,
+						"showVisualInformationButton": false,
+						"showVisualWarningButton": false
+					}
+				]
+			}
+		},
+		"actionButton": {
+			"*": {
+				"visualHeader": [
+					{
+						"background": {
+							"solid": {
+								"color": "#fffbca"
+							}
+						},
+						"border": {
+							"solid": {
+								"color": "#ffa200"
+							}
+						},
+						"showCommentButton": false,
+						"showCopyVisualImageButton": false,
+						"showDrillToggleButton": false,
+						"showDrillRoleSelector": false,
+						"showDrillUpButton": false,
+						"showDrillDownExpandButton": false,
+						"showFilterRestatementButton": false,
+						"showFocusModeButton": false,
+						"showFollowVisualButton": false,
+						"foreground": {
+							"solid": {
+								"color": {
+									"expr": {
+										"ThemeDataColor": {
+											"ColorId": 2,
+											"Percent": -0.5
+										}
+									}
+								}
+							}
+						},
+						"showOptionsMenu": false,
+						"showPersonalizeVisualButton": false,
+						"showPinButton": false,
+						"showSeeDataLayoutToggleButton": false,
+						"showSetAlertButton": false,
+						"show": false,
+						"showDrillDownLevelButton": false,
+						"showSmartNarrativeButton": false,
+						"transparency": 20,
+						"showVisualErrorButton": false,
+						"showTooltipButton": false,
+						"showVisualInformationButton": false,
+						"showVisualWarningButton": false
+					}
+				]
+			}
+		},
+		"bookmarkNavigator": {
+			"*": {
+				"visualHeader": [
+					{
+						"background": {
+							"solid": {
+								"color": "#fffbca"
+							}
+						},
+						"border": {
+							"solid": {
+								"color": "#ffa200"
+							}
+						},
+						"showCommentButton": false,
+						"showCopyVisualImageButton": false,
+						"showDrillToggleButton": false,
+						"showDrillRoleSelector": false,
+						"showDrillUpButton": false,
+						"showDrillDownExpandButton": false,
+						"showFilterRestatementButton": false,
+						"showFocusModeButton": false,
+						"showFollowVisualButton": false,
+						"foreground": {
+							"solid": {
+								"color": {
+									"expr": {
+										"ThemeDataColor": {
+											"ColorId": 2,
+											"Percent": -0.5
+										}
+									}
+								}
+							}
+						},
+						"showOptionsMenu": false,
+						"showPersonalizeVisualButton": false,
+						"showPinButton": false,
+						"showSeeDataLayoutToggleButton": false,
+						"showSetAlertButton": false,
+						"show": false,
+						"showDrillDownLevelButton": false,
+						"showSmartNarrativeButton": false,
+						"transparency": 20,
+						"showVisualErrorButton": false,
+						"showTooltipButton": false,
+						"showVisualInformationButton": false,
+						"showVisualWarningButton": false
+					}
+				]
+			}
+		},
+		"pageNavigator": {
+			"*": {
+				"visualHeader": [
+					{
+						"background": {
+							"solid": {
+								"color": "#fffbca"
+							}
+						},
+						"border": {
+							"solid": {
+								"color": "#ffa200"
+							}
+						},
+						"showCommentButton": false,
+						"showCopyVisualImageButton": false,
+						"showDrillToggleButton": false,
+						"showDrillRoleSelector": false,
+						"showDrillUpButton": false,
+						"showDrillDownExpandButton": false,
+						"showFilterRestatementButton": false,
+						"showFocusModeButton": false,
+						"showFollowVisualButton": false,
+						"foreground": {
+							"solid": {
+								"color": {
+									"expr": {
+										"ThemeDataColor": {
+											"ColorId": 2,
+											"Percent": -0.5
+										}
+									}
+								}
+							}
+						},
+						"showOptionsMenu": false,
+						"showPersonalizeVisualButton": false,
+						"showPinButton": false,
+						"showSeeDataLayoutToggleButton": false,
+						"showSetAlertButton": false,
+						"show": false,
+						"showDrillDownLevelButton": false,
+						"showSmartNarrativeButton": false,
+						"transparency": 20,
+						"showVisualErrorButton": false,
+						"showTooltipButton": false,
+						"showVisualInformationButton": false,
+						"showVisualWarningButton": false
+					}
+				]
+			}
+		},
+		"textbox": {
+			"*": {
+				"visualHeader": [
+					{
+						"background": {
+							"solid": {
+								"color": "#fffbca"
+							}
+						},
+						"border": {
+							"solid": {
+								"color": "#ffa200"
+							}
+						},
+						"showCommentButton": false,
+						"showCopyVisualImageButton": false,
+						"showDrillToggleButton": false,
+						"showDrillRoleSelector": false,
+						"showDrillUpButton": false,
+						"showDrillDownExpandButton": false,
+						"showFilterRestatementButton": false,
+						"showFocusModeButton": false,
+						"showFollowVisualButton": false,
+						"foreground": {
+							"solid": {
+								"color": {
+									"expr": {
+										"ThemeDataColor": {
+											"ColorId": 2,
+											"Percent": -0.5
+										}
+									}
+								}
+							}
+						},
+						"showOptionsMenu": false,
+						"showPersonalizeVisualButton": false,
+						"showPinButton": false,
+						"showSeeDataLayoutToggleButton": false,
+						"showSetAlertButton": false,
+						"show": false,
+						"showDrillDownLevelButton": false,
+						"showSmartNarrativeButton": false,
+						"transparency": 20,
+						"showVisualErrorButton": false,
+						"showTooltipButton": false,
+						"showVisualInformationButton": false,
+						"showVisualWarningButton": false
+					}
+				]
+			}
+		}
+	}
+}
